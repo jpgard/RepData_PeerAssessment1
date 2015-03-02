@@ -4,8 +4,6 @@ author: "Joshua Gardner"
 date: "January 14, 2015"
 output: html_document
 ---
-#Title
-That was the title.
 
 
 Notes:
